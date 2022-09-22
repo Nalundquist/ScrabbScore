@@ -10,14 +10,15 @@ namespace Scrabb.Score.Test
 		public void SScore_ReturnsCharacterScore_True()
 		{
 			SScore score = new SScore();
-			Assert.AreEqual(1, score.SScoreTab('a'));
+			Assert.AreEqual(1, score.SScoreTab("a"));
 		}
 
     [TestMethod]
 		public void SScore_ReturnsWordScore_True()
 		{
-			SScore score = new SScore();
-			Assert.AreEqual(1, score.SScoreTab('a'));
+			string word = "banana";
+      SScore score = new SScore();
+			Assert.AreEqual(8, score.SScoreTab("banana"));
 		}
 	}
 }
