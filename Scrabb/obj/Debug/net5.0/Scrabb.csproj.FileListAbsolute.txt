@@ -1,0 +1,12 @@
+C:\Users\nalun\ScrabbScore\Scrabb\obj\Debug\net5.0\Scrabb.csproj.AssemblyReference.cache
+C:\Users\nalun\ScrabbScore\Scrabb\obj\Debug\net5.0\Scrabb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nalun\ScrabbScore\Scrabb\obj\Debug\net5.0\Scrabb.AssemblyInfoInputs.cache
+C:\Users\nalun\ScrabbScore\Scrabb\obj\Debug\net5.0\Scrabb.AssemblyInfo.cs
+C:\Users\nalun\ScrabbScore\Scrabb\obj\Debug\net5.0\Scrabb.csproj.CoreCompileInputs.cache
+C:\Users\nalun\ScrabbScore\Scrabb\bin\Debug\net5.0\Scrabb.deps.json
+C:\Users\nalun\ScrabbScore\Scrabb\bin\Debug\net5.0\Scrabb.dll
+C:\Users\nalun\ScrabbScore\Scrabb\bin\Debug\net5.0\ref\Scrabb.dll
+C:\Users\nalun\ScrabbScore\Scrabb\bin\Debug\net5.0\Scrabb.pdb
+C:\Users\nalun\ScrabbScore\Scrabb\obj\Debug\net5.0\Scrabb.dll
+C:\Users\nalun\ScrabbScore\Scrabb\obj\Debug\net5.0\ref\Scrabb.dll
+C:\Users\nalun\ScrabbScore\Scrabb\obj\Debug\net5.0\Scrabb.pdb
