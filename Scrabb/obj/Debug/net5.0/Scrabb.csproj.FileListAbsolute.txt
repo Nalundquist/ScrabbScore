@@ -10,3 +10,7 @@ C:\Users\nalun\ScrabbScore\Scrabb\bin\Debug\net5.0\Scrabb.pdb
 C:\Users\nalun\ScrabbScore\Scrabb\obj\Debug\net5.0\Scrabb.dll
 C:\Users\nalun\ScrabbScore\Scrabb\obj\Debug\net5.0\ref\Scrabb.dll
 C:\Users\nalun\ScrabbScore\Scrabb\obj\Debug\net5.0\Scrabb.pdb
+C:\Users\nalun\ScrabbScore\Scrabb\bin\Debug\net5.0\Scrabb.exe
+C:\Users\nalun\ScrabbScore\Scrabb\bin\Debug\net5.0\Scrabb.runtimeconfig.json
+C:\Users\nalun\ScrabbScore\Scrabb\bin\Debug\net5.0\Scrabb.runtimeconfig.dev.json
+C:\Users\nalun\ScrabbScore\Scrabb\obj\Debug\net5.0\Scrabb.genruntimeconfig.cache
